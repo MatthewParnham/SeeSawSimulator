@@ -1,3 +1,3 @@
-public class See {
-  
+public class See extends Thread {
+
 }
